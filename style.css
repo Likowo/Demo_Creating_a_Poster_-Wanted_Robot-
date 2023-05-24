@@ -1,0 +1,37 @@
+.posterContainer{
+    border: dotted red;
+    /* height:54vh; */
+    margin:3em;
+    background-color: lightcoral;
+}
+.title{
+    text-align:center;
+    text-decoration:underline;
+    font-size: 52px;
+    margin: 0.5em;
+   
+}
+.infor{
+    text-align:center;
+    font-size:40px;
+}
+.robot{
+    border: solid black;
+    border-radius: 50%;
+    margin-left: 25%;
+}
+.description{
+    border: solid black;
+    margin:1em;
+    text-align:center;
+    color: darkblue;
+}
+
+.contactInfo{
+    text-align:center; 
+    color: yellow;
+     
+}
+.reward{
+    text-align:center;
+}
